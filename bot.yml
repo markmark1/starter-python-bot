@@ -1,5 +1,5 @@
-name: Beepboop Starterbot
-description: A simple Python bot sample for Beep Boop
+name: Hoot bot
+description: A simple hoot bot sample
 avatar: images/avatar.png
 background: images/background.png
 config:
